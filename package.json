@@ -1,0 +1,19 @@
+{
+  "name": "react_native_lib_all",
+  "version": "1.0.0",
+  "description": "react native library all",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anomtest08/react_native_lib_all.git"
+  },
+  "author": "anom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anomtest08/react_native_lib_all/issues"
+  },
+  "homepage": "https://github.com/anomtest08/react_native_lib_all#readme"
+}
